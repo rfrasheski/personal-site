@@ -133,6 +133,8 @@ const colors = {
 }
 
 module.exports = {
+
+  cursor: ['responsive', 'hover', 'focus', 'active', 'group-hover'], 
   /*
   |-----------------------------------------------------------------------------
   | Colors                                  https://tailwindcss.com/docs/colors
