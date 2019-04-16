@@ -126,6 +126,9 @@ const Index = () => (
               <a href="https://www.linkedin.com/in/ryan-frasheski-23611b16b">LinkedIn</a>
             </ContactText>
           </Inner>
+          <Footer>
+            &copy; 2019 Ryan Frasheski.{' '}
+          </Footer>
         </Contact>
       </Parallax>
   </>
