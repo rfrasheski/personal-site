@@ -24,8 +24,8 @@ const Projects = ({ children, offset }) => (
         <SVG icon="upDown" width={8} fill={colors.teal} left="70%" top="20%" />
         <SVG icon="triangle" width={8} stroke={colors.orange} left="25%" top="5%" />
         <SVG icon="circle" hiddenMobile width={24} fill={colors.white} left="17%" top="60%" />
-        <SVG icon="star" width={32} stroke={colors.white} left="50%" top="40%" />
-        <SVG icon="star" width={32} stroke={colors.white} left="6%" top="30%" />
+        <SVG icon="star" hiddenMobile width={32} stroke={colors.white} left="50%" top="40%" />
+        <SVG icon="star" hiddenMobile width={32} stroke={colors.white} left="6%" top="30%" />
       </UpDown>
       <UpDownWide>
         <SVG icon="arrowUp" hiddenMobile width={16} fill={colors.green} left="20%" top="90%" />
@@ -42,7 +42,7 @@ const Projects = ({ children, offset }) => (
       <SVG icon="box" width={12} fill={colors.yellow} left="29%" top="26%" />
       <SVG icon="hexa" width={16} stroke={colors.red} left="75%" top="30%" />
       <SVG icon="hexa" width={8} stroke={colors.yellow} left="80%" top="70%" />
-      <SVG icon="star" width={32} stroke={colors.white} left="55%" top="70%" />
+      <SVG icon="star" hiddenMobile width={32} stroke={colors.white} left="55%" top="70%" />
     </Divider>
   </>
 )
