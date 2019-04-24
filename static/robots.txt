@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-sitemap: https://ryanfrasheski.com/sitemap.xml
