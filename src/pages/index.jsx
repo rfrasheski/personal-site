@@ -96,6 +96,13 @@ const Index = () => (
           <Title>Projects</Title>
           <ProjectsWrapper>
             <ProjectCard
+              title="ChessAI"
+              link="https://chessai.ryanfrasheski.com"
+              bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
+            >
+              A Chess AI playable in browser
+            </ProjectCard>
+            <ProjectCard
               title="glVisualizer"
               link="https://github.com/rfrasheski/glVisualizer"
               bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
